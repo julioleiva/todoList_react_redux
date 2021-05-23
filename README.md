@@ -1,6 +1,6 @@
 # challenge_todo
 
-Lista de tareas con React, Redux testeada con @testingLibreary
+Lista de tareas con React, Redux testeada con @testingLibrary
 
 # live_demo and code
 
