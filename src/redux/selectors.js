@@ -17,7 +17,6 @@ export const getTodosByVisibilityFilter = (storeState, visibilityFilter) => {
   const allTodos = getTodos(storeState);
   switch (visibilityFilter) {
     case VISIBILITY_FILTERS.COMPLETED:
-      console.log("here");
       return allTodos.filter(todo => todo.completed);
     case VISIBILITY_FILTERS.INCOMPLETE:
       return allTodos.filter(todo => !todo.completed);
