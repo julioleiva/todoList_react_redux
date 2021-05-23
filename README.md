@@ -1,2 +1,2 @@
-# todoList_react_redux
+# challenge_todo
 Created with CodeSandbox
