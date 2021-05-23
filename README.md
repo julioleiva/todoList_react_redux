@@ -2,6 +2,6 @@
 
 Lista de tareas con React, Redux testeada con @testingLibreary
 
-# live_demo
+# live_demo and code
 
-[XD](https://www.google.com)
+[XD](https://codesandbox.io/s/github/julioleiva/todoList_react_redux)
